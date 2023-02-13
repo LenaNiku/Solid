@@ -9,10 +9,4 @@ public class Purchase {
         this.count = count;
     }
 
-    public Purchase() {
-    }
-
-
-
-
 }
