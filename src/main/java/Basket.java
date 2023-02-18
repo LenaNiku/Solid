@@ -1,8 +1,8 @@
 import java.util.Map;
 
 public class Basket {
-    private Map<String, Integer> prices;
-    protected Purchase[] purchases = new Purchase[4];
+    protected Map<String, Integer> prices;
+  protected Purchase[] purchases;
 
 
     public Basket (Map<String, Integer> prices) {
